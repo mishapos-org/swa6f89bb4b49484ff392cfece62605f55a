@@ -1,5 +1,5 @@
 {
   "networking": {
-      "allowedIpRanges": ["4.236.121.112/28"]
+      "allowedIpRanges": ["4.236.121.212/28"]
   }
 }
